@@ -1,0 +1,23 @@
+{
+  "name": "telegram-bot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAB543/telegram-bot-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LAB543/telegram-bot-test/issues"
+  },
+  "homepage": "https://github.com/LAB543/telegram-bot-test#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
